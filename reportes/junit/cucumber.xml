@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="35.058">
+<testcase classname="Deposito a plazo fijo creciente" name="validar el resumen de plazo fijo creciente" time="34.842">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[When ingreso adquirir nuevo producto y escojo deposito a plazo fijo.........undefined
+And elijo la opcion creciente...............................................skipped
+And elijo el tipo de moneda "Soles" e ingresamos el monto "1000" y click en simular.skipped
+And escojemos la opcion360..................................................skipped
+Then validamos que exita el resumen de plazo fijo como la cuenta origen, departamento y provincia.skipped
+]]></failure>
+</testcase>
+</testsuite>
